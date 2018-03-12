@@ -1,0 +1,22 @@
+body{
+  background:green;
+}
+p{
+  color:#fff;
+  text-align:justify;
+}
+
+.container>.jumbotron{
+  background:#0000A0;
+  border-radius:0 !important;
+}
+.container a{
+  color:#F00;
+}
+h3{
+  color:#fff;
+}
+.navbar-inverse{
+  margin-bottom:0 !important;
+  border-radius:0 !important;
+}
